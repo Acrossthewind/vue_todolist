@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import TODO from './components/todo.vue'
+import TODO from "./components/todo.vue";
 </script>
 
 <template>
@@ -14,7 +14,7 @@ import TODO from './components/todo.vue'
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #343997aa);
 }
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
