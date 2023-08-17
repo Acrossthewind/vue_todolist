@@ -14,7 +14,7 @@ import TODO from "./components/todo.vue";
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #343997aa);
+  filter: drop-shadow(0 0 2em #535ae0aa);
 }
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
